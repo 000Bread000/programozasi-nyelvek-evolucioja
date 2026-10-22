@@ -1,6 +1,6 @@
 # Forrásjegyzék
 
-**Felhasznált dokumentum:** *Projektfeladat: A programozási nyelvek evolúciója és összehasonlítása*, határidő 2026.11.23., 2 oldal (a megrendelő által küldött feladatlap).
+**Felhasznált dokumentum:** *Projektfeladat: A programozási nyelvek evolúciója és összehasonlítása*, határidő 2026.11.23., 2 oldal.
 
 Az alábbi nyilvános forrásokból készültek a történeti és technikai összefoglalók. **Ellenőrizve: 2026.10.19.**
 
