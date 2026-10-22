@@ -75,24 +75,6 @@ A kódpéldák nem teljesítmény-benchmarkok: kizárólag szintaxist, memóriah
 - **Gergő:** történeti kutatás, dokumentációs szerkezet.
 - **Dominik:** összehasonlító ábrák, konklúzió, diák összeállítása.
 
-A prezentáció és a végleges szöveg közös ellenőrzést igényel. A fenti felosztás *javaslat*, módosítható.
-
-## Feltöltés közös GitHub-repozitóriumba
-
-A ZIP önmagában nem GitHub-repozitórium, de a mappaszerkezet verziókezelésre kész. A kicsomagolt mappában:
-
-```bash
-git init
-git add .
-git commit -m "Initial project: Fortran C Rust evolution"
-git branch -M main
-# A saját, előzetesen létrehozott GitHub repo URL-jét illeszd be:
-git remote add origin <SAJAT_GITHUB_REPO_URL>
-git push -u origin main
-```
-
-**Nem történt GitHubra feltöltés a ZIP készítése során.**
-
 ## Források
 
 A feladatleírásból következő követelményeken túl a történelmi és technikai állítások hivatkozásai: `resources/Forrasok.md` és a dolgozat végén.
