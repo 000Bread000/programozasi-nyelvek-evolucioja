@@ -10,7 +10,7 @@ A projekt a programozási nyelvek három korszakát kapcsolja össze: a tudomán
 
 | Fájl | Tartalom |
 | --- | --- |
-| `docs/Programozasi_nyelvek_evolucioja.docx` | Szerkeszthető, 5–10 oldalas dolgozat |
+| `docs/Programozasi_nyelvek_evolucioja.docx` | kidolgozás |
 | `docs/Programozasi_nyelvek_evolucioja.pdf` | Beadásra kész PDF |
 | `presentation/Programozasi_nyelvek_evolucioja.pptx` | 10 perces előadás, előadói jegyzetekkel |
 | `presentation/Eloadas_forgatokonyv.md` | 3 főre bontott, időzített beszédvázlat |
